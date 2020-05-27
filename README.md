@@ -8,9 +8,11 @@ Scripts for downloading NEXRAD Level II files and GOES-16/17 NetCDF files from t
 
 ## Installation
 ```
-git clone https://github.com/HumphreysCarter/BUFR-Data-Parser.git
+git clone https://github.com/HumphreysCarter/NOAA-AWS-Data-Request.git
 ```
 
 ## Dependencies
 * Python 3.7 or later
-* metpy
+* s3fs
+* numpy
+
